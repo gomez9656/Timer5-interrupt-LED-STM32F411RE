@@ -22,7 +22,7 @@ TIM_HandleTypeDef htimer5;
 
 int main(){
 
-	/* Basic initialization */
+	/* Basic initialization  */
 	HAL_Init();
 	SystemCoreClockConfig();
 	GPIO_Init();
